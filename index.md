@@ -1,1 +1,5 @@
 <a class="twitter-timeline" href="https://twitter.com/NWSWPC?ref_src=twsrc%5Etfw">Tweets by NWSWPC</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/NWSCentral?ref_src=twsrc%5Etfw">Tweets by NWSCentral</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/NWSSouthern?ref_src=twsrc%5Etfw">Tweets by NWSSouthern</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/NWSWestern?ref_src=twsrc%5Etfw">Tweets by NWSWestern</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/NWSEastern?ref_src=twsrc%5Etfw">Tweets by NWSEastern</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
